@@ -1,0 +1,17 @@
+{
+  "name": "BlueStar Appliance Repair",
+  "short_name": "BlueStar",
+  "description": "Appliance repair for washers, dryers, refrigerators, ovens, dishwashers and microwaves. Call or text 214-628-3713.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b1b3a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
